@@ -3,7 +3,6 @@
 
 int main()
 {
-// Prints the addition of two numbers
 int user;
 
 printf("Enter a value or character: "); //creates a prompt
